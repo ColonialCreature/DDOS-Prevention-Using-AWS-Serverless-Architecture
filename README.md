@@ -73,6 +73,19 @@ Published: November 2023, Vishwakarma University, Pune
 
 ---
 
+## 🧱 System Design and Architecture
+
+![Picture1](https://github.com/user-attachments/assets/0c97a936-5500-4d4c-95c9-6d78acf14177)
+
+---
+
+## 🔧 Project Implementation
+
+![Picture2](https://github.com/user-attachments/assets/2b4edf55-9091-41f9-8665-71c647240a6d)
+
+
+---
+
 ## 🔭 Future Scope
 
 - ✅ **Approval List**: Allow whitelisted users to bypass the denial mechanism
